@@ -22,7 +22,7 @@ with col1:
 with col2:
     # 3. Render the Map
     # Ensure this URL is your public Cloudflare R2 direct link
-    raster_url = "https://pub-927b7ce233e44225b6e9fdd2839b44cf.r2.dev/output.tif"
+    raster_url = "https://pub-927b7ce233e44225b6e9fdd2839b44cf.r2.dev/Permafrost_Himachal.tif"
     
     m = leafmap.Map(center=[20, 0], zoom=3)
     m.add_basemap("OpenStreetMap")
