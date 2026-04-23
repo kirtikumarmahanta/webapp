@@ -20,7 +20,7 @@ with left_col:
 
 # --- Right Column: Map View ---
 with right_col:
-    tiff_path = https://github.com/kirtikumarmahanta/webapp/blob/3f334d63ad68960f207fc651f542a97fa1723b04/output.tif
+    tiff_path = "https://github.com/kirtikumarmahanta/webapp/blob/3f334d63ad68960f207fc651f542a97fa1723b04/output.tif"
     
     # Initializing map near IIT Mandi
     m = leafmap.Map(center=[31.75, 77.0], zoom=13)
