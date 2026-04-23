@@ -45,7 +45,7 @@ with col2:
         )
         
         # Add Legend
-        m.add_legend(title="Elevation Data", builtin_legend="terrain")
+        #m.add_legend(title="Elevation Data", builtin_legend="terrain")
         
         # Render
         m.to_streamlit(height=600)
