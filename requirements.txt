@@ -2,3 +2,5 @@ streamlit
 leafmap
 streamlit-folium
 localtileserver
+xarray
+rasterio
