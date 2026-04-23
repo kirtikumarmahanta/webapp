@@ -4,3 +4,4 @@ streamlit-folium
 localtileserver
 xarray
 rasterio
+psutil
